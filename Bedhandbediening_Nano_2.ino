@@ -6,6 +6,7 @@
 //11-11-2017  Gewa inleer I/O en Binary gecorigeerd.
 //12-11-2017  knop 5,6,7 buzzer gemaakt voor geen toepassing nog.
 //20-7-2018   Programmeerbare relais uitgangen 1 t& m 8 (under construction).
+//geupload als test voor github alleen 8-10-2020
 
 #include <Keypad.h>
 #include <EEPROM.h>
